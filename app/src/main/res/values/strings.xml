@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">संवाद</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="sign_up">Don\'t have an account? <b><u>sign up</u></b></string>
+</resources>

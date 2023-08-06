@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950391907852",
+    "project_id": "sanwad-95225",
+    "storage_bucket": "sanwad-95225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950391907852:android:5b9dc034665ab19e9db029",
+        "android_client_info": {
+          "package_name": "com.example.sanwad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950391907852-njq6bsr6mb8n0dg3fjtnhfn9e25uhg86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanwad",
+            "certificate_hash": "ced30f60c2135141c4089999139089f063ccedba"
+          }
+        },
+        {
+          "client_id": "950391907852-5gdqt16n3m55skejhgi97vrlfv6h9gid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmpJDq5Bbmtp2y9SXnu6oe3IzHE9OHyMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950391907852-5gdqt16n3m55skejhgi97vrlfv6h9gid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
